@@ -1,0 +1,7 @@
+{
+  "name": "THEART 360 VR",
+  "description": "Interactive 360-degree virtual tour for THEART DANCE STUDIO.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
